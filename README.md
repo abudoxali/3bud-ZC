@@ -42,7 +42,7 @@ My public portfolio positions my work around websites, systems, Telegram bots, a
     </td>
     <td width="50%" valign="top">
       <h3>From my GitHub profile</h3>
-      <p>Public profile under <a href="https://github.com/3bud-ZC">@3bud-ZC</a>, with repositories and a bio focused on full-stack development, AI, automation, websites, internal systems, Telegram bots, and workflows.</p>
+      <p>Public profile under <a href="https://github.com/abudoxali">@abudoxali</a>, with repositories and a bio focused on full-stack development, AI, automation, websites, internal systems, Telegram bots, and workflows.</p>
     </td>
   </tr>
 </table>
@@ -87,12 +87,12 @@ My public portfolio positions my work around websites, systems, Telegram bots, a
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/3bud-ZC/RepoRadar-Ai">RepoRadar AI</a></h3>
+      <h3><a href="https://github.com/abudoxali/RepoRadar-Ai">RepoRadar AI</a></h3>
       <p>Local repository scanner that generates architecture reports, security notes, fix plans, GitHub-ready issues, and AI-agent prompts without paid AI.</p>
       <p><sub>TypeScript | CLI tool | Local-first analysis</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/3bud-ZC/OmniAgent">OmniAgent</a></h3>
+      <h3><a href="https://github.com/abudoxali/OmniAgent">OmniAgent</a></h3>
       <p>Windows-first desktop AI assistant built with Electron, React, TypeScript, and a Python FastAPI backend for local model workflows.</p>
       <p><sub>Electron | React | FastAPI | Local AI</sub></p>
     </td>
@@ -104,7 +104,7 @@ My public portfolio positions my work around websites, systems, Telegram bots, a
       <p><sub>Kotlin | Android | Legal tech | Local-first</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/3bud-ZC/Abud-Shorts-Engine">Abud Shorts Engine</a></h3>
+      <h3><a href="https://github.com/abudoxali/short-studio-server">Abud Shorts Engine</a></h3>
       <p>Local-first Docker tool for branded short-video generation using templates, TTS, captions, background footage, Remotion, and React.</p>
       <p><sub>TypeScript | React | Docker | Video automation</sub></p>
     </td>
@@ -112,7 +112,7 @@ My public portfolio positions my work around websites, systems, Telegram bots, a
 </table>
 
 <p align="center">
-  Other public builds: <a href="https://github.com/3bud-ZC/promptforge">PromptForge</a> | <a href="https://github.com/3bud-ZC/Personal-Task-Manager-Telegram-Bot">Task Manager Bot</a> | <a href="https://github.com/3bud-ZC/PoseMeme">PoseMeme</a>
+  Other public builds: <a href="https://github.com/abudoxali/promptforge">PromptForge</a> | <a href="https://github.com/abudoxali/Personal-Task-Manager-Telegram-Bot">Task Manager Bot</a> | <a href="https://github.com/abudoxali/PoseMeme">PoseMeme</a>
 </p>
 
 ## Core Stack
